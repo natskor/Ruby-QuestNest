@@ -1,3 +1,3 @@
 # Ruby-QuestNest
 # Outline
-    - [Ruby Outline](Documents/RubyLab1.html)
+    - [Ruby Outline](/Documents/RubyLab1.html)
