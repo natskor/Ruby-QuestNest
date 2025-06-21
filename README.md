@@ -1,9 +1,9 @@
 # Ruby-QuestNest
-Complete Tasks. Level Up. Earn Rewards. 
+*Complete Tasks. Level Up. Earn Rewards.*<br>
 Teach responsibility with a system kids love and you control
 
-# Outline
+## Outline
 - [Ruby Outline](https://natskor.github.io/Ruby-QuestNest/docs/RubyLab1.html)
 
-# Team Bio
+## Team Bio
 - [Team Bio](./teambio.md)

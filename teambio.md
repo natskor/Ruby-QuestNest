@@ -1,4 +1,7 @@
-Team Bio
+---
+layout: default
+---
+# Team Bio
 
 
 Caitlyn Heath
