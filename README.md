@@ -6,7 +6,7 @@ Teach responsibility with a system kids love and you control
 - [Ruby Outline](https://natskor.github.io/Ruby-QuestNest/docs/RubyLab1.html)
 
 ## Team Bio
-- [Team Bio](./pages/teambio.md)
+- [Team Bio](./teambio.md)
 
 ## Presentations
-- [Feasibility](./pages/presentations.md)
+- [Feasibility](./presentations.md)
