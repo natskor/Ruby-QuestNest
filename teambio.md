@@ -1,6 +1,7 @@
-
-# Team Bio
-
+---
+layout: default
+title: Meet the Team
+---
 
 Caitlyn Heath
 
