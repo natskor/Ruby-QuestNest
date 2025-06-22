@@ -6,7 +6,7 @@ Teach responsibility with a system kids love and you control
 - [Ruby Outline](./RubyLab1.md)
 
 ## Team Bio
-- [Team Bio](./team)
+- [Team Bio](./team.html)
 
 ## Presentations
 - [Feasibility](./presentations.md)
