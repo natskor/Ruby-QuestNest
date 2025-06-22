@@ -42,7 +42,7 @@ title: Meet the Team
     </div>
     
     <div class="card">
-        <img src="./images/Natalie_Avila.jpg" alt="">
+        <img src="Ruby-QuestNest/images/Natalie_Avila.jpg" alt="Natalie Avila">
         <h3>Natalie Avila</h3>
         <p>Natalie is an undergraduate at Old Dominion University majoring in Computer Science with a minor in Actuarial Mathematics. </p> 
     </div>
