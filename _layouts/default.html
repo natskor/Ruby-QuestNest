@@ -19,10 +19,7 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       
-      <p style="text-align: center; color: rgb(170, 205, 250);">
-      <a href="https://www.odu.edu/" style="color: rgb(170, 205, 250);">ODU</a> 
-      <a href="https://www.odu.edu/computer-science" style="color: rgb(170, 205, 250); margin-left: 15px;">CS Department</a>
-      </p>
+
         
       {% if site.github.is_project_page %}
         <a href="./index" class="btn">Home</a>
@@ -42,6 +39,12 @@
       {{ content }}
 
       <footer class="site-footer">
+        
+        <p style="text-align: center; color: rgb(170, 205, 250);">
+        <a href="https://www.odu.edu/" style="color: rgb(170, 205, 250);">ODU</a> 
+        <a href="https://www.odu.edu/computer-science" style="color: rgb(170, 205, 250); margin-left: 15px;">CS Department</a>
+        </p>
+        
       </footer>
     </main>
   </body>
