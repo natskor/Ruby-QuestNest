@@ -17,7 +17,7 @@ https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protecti
 <p class="indent"> 
 Lam, C. B., Greene, K. M., & McHale, S. M. (2016). Housework Time from Middle Childhood through
 Adolescence: Links to Parental Work Hours and Youth Adjustment.
-[pmc.ncbi.nlm.nih.gov/articles/PMC5125879/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5125879/)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5125879/
 </p>
 
 <p class="indent"> 
