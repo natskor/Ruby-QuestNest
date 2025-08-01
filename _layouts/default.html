@@ -20,9 +20,11 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="./index" class="btn">Home</a>
-        <a href="./team" class="btn">About Us</a>
-        <a href="./presentations" class="btn">Presentations</a>
-        <a href="./RubyLab1" class="btn">Outline</a>
+        <a href="./pages/team" class="btn">About Us</a>
+        <a href="./pages/presentations" class="btn">Presentations</a>
+        <a href="./pages/Lab" class="btn">Documents</a>
+        <a href="./pages/References" class="btn">References</a>
+        <a href="./pages/Glossary" class="btn">Glossary</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
