@@ -11,7 +11,7 @@ title: References
 
 <p class="indent"> 
 Federal Trade Commission. (2000). Children's Online Privacy Protection Rule ("COPPA").
-https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa
+<a href=https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa>https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa</a>
 </p>
 
 <p class="indent"> 
