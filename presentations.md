@@ -30,3 +30,10 @@ title: Presentations
 # Prototype Design
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRoBrN9fTbpPsNSDkTgIKANC9NlRUje6c9562yHMmd8M7eVweCoPlLtA8rrG_60aypitm0_jlruxR1y/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<details>
+<summary><h2>▶ PDF Version</h2></summary>
+<br>
+<embed src="https://natskor.github.io/Ruby-QuestNest/assets/documents/Prototype_Design_Presentation.pdf" type="application/pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+<br>
+</details>
