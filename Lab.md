@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documents
+title: Labs
 ---
 # Lab 1 Outline
 
