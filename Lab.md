@@ -42,3 +42,10 @@ title: Labs
 <embed src="https://natskor.github.io/Ruby-QuestNest/assets/documents/ColinMcGowan_Version_1.pdf" type="application/pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 <br>
 </details>
+
+<details>
+<summary><h2 class="hover_color">▶ Junsen Huang</h2></summary>
+<br>
+<embed src="https://natskor.github.io/Ruby-QuestNest/assets/documents/Junsen-Lab 1-Version 1.pdf" type="application/pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+<br>
+</details>
