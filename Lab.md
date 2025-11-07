@@ -63,3 +63,7 @@ title: Labs
 <embed src="https://natskor.github.io/Ruby-QuestNest/assets/documents/Kanaan_Graham_Lab_1.pdf" type="application/pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 <br>
 </details>
+
+# Team Lab 2 SRS
+
+<embed src="https://natskor.github.io/Ruby-QuestNest/assets/documents/Ruby_Lab2.pdf" type="application/pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
