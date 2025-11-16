@@ -118,3 +118,7 @@ title: Labs
 <embed src="https://natskor.github.io/Ruby-QuestNest/assets/documents/" type="application/pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 <br>
 </details>
+
+# User Manual - Lab 3 & Lab 4
+
+<embed src="" type="application/pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
