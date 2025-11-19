@@ -121,4 +121,4 @@ title: Labs
 
 # User Manual - Lab 3 & Lab 4
 
-<embed src="" type="application/pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+<embed src="https://github.com/natskor/f25-04-Ruby/wiki" type="application/pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
